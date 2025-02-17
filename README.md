@@ -7,7 +7,7 @@ Bu proje, bir RC uçağından yük bırakma simülasyonunu gerçekleştiren bir 
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Parametreler](#parametreler)
-- [Çıktılar](https://github.com/yoskasss/at-Hesaplay-c-/edit/main/README.md#%C3%A7%C4%B1kt%C4%B1lar)
+- [Çıktılar](#Çıktılar)
 
 
 ## Proje Hakkında
